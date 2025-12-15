@@ -1,4 +1,5 @@
 -- Script SQL pour la base autocompletion et la table animaux
+
 CREATE DATABASE IF NOT EXISTS autocompletion;
 USE autocompletion;
 
